@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hey I'm Jeremy 👋
 
+I'm an undergradute student at Northeastern University studying computer science
+
+Reach me at jeremym3817@gmail.com 
 <!--
 **jeremym3817/jeremym3817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: marino.je@northeastern.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a rubix cube
---> Thanks guys
+--> 
+Thanks guys
